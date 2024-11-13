@@ -1,5 +1,5 @@
 ## Hi, I'm Rodrigo 👋
-#### Fronted Developer and Software Engineer Student ⚡
+#### Software Engineer specialized in Frontend Development⚡
 
 
 ```jsx
